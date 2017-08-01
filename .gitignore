@@ -1,6 +1,7 @@
 .Archive/*
 .DS_Store
-python/get_books.py
+
+
 
 .idea/*
 
